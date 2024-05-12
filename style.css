@@ -1,0 +1,86 @@
+body{
+    margin: 0px;
+}
+
+h2{
+    font-family: Arial Black;
+    color: white;
+    font-size: 50px;
+   margin-bottom: 40px;
+}
+
+h1{
+    font-family: Algerian;
+    color: white;
+    font-size: 50px;
+}
+
+section {
+    display: flex;
+    padding: 5%;
+   
+}
+.half{
+    width: 50%;
+}
+img{
+    width: 70%;
+    border-radius: 50%;
+    
+}
+.link{
+    text-decoration: none;
+    padding: 10px 30px;
+   background-image: linear-gradient(blue,blueviolet);
+    color: white;
+    border-radius: 20px;
+}
+span{
+    color:black;
+}
+.top{
+    background-image: url(image/wave.svg);
+    background-repeat: no-repeat;
+
+}
+p2{
+  
+    margin: 50px;
+    font-size: 40px;
+    font-weight: bold;
+}
+p1{
+    font-size: 20px;
+}
+
+p3{
+    font-size: 30px;
+   text-align: center;
+}
+.specilized{
+    text-align: center;
+    padding:0px 0px;
+   
+}
+.other{
+
+}
+.head{
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.parents{
+    display: flex;
+}
+
+.child{
+    box-shadow: 10px 20px 30px black;
+    padding:50px;
+    margin: 2%;
+    border-radius: 0 20px 60px 0px;
+    border-left: 4px solid black;
+    
+    
+}
