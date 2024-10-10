@@ -1,3 +1,3 @@
 
-##Alauddin English Academy
-####How are you
+## Alauddin English Academy
+#### How are you
