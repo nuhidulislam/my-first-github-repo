@@ -1,4 +1,3 @@
-# my-first-github-repo
-##Alauddin English Academy
 
+##Alauddin English Academy
 ####How are you
